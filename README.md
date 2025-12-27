@@ -1,5 +1,8 @@
 # Markdown Scribe
 
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/fbac6a74-efcb-4de6-a9be-0656408c9309" />
+
+
 A fast and extensible Markdown renderer and editor built in Rust, designed for client-side use with CLI and TUI support. No dependencies on servers or networks.
 
 ## Features
